@@ -13,19 +13,13 @@ Description
 	license		: "GPL (>= 2)"
 	icon      : "logoFreq.png"
 	hasWrappers	: false
-	preloadData: true
 
 	Analysis
 	{
 		title: 	"REM"
 		func: 	"relationalEventModeling"
 		qml: 		"RelationalEventModeling.qml"
-		requiresData: true
-
 	}
-
-
-
 }
 
 
